@@ -1,3 +1,8 @@
+To run tests, run the following command in the command line:
+
+python3 tests.py
+
+
 The goal of this assignment is to add unit tests to the Tic Tac Toe game:
 
 1. All the tests should live in tests.py
